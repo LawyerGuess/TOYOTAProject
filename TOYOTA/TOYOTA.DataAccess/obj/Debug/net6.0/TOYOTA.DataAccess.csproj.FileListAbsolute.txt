@@ -1,0 +1,17 @@
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\bin\Debug\net6.0\TOYOTA.DataAccess.deps.json
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\bin\Debug\net6.0\TOYOTA.DataAccess.dll
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\bin\Debug\net6.0\TOYOTA.DataAccess.pdb
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\bin\Debug\net6.0\Infrastructure.dll
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\bin\Debug\net6.0\TOYOTA.Model.dll
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\bin\Debug\net6.0\TOYOTA.Model.pdb
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\bin\Debug\net6.0\Infrastructure.pdb
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\obj\Debug\net6.0\TOYOTA.DataAccess.csproj.AssemblyReference.cache
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\obj\Debug\net6.0\TOYOTA.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\obj\Debug\net6.0\TOYOTA.DataAccess.AssemblyInfoInputs.cache
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\obj\Debug\net6.0\TOYOTA.DataAccess.AssemblyInfo.cs
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\obj\Debug\net6.0\TOYOTA.DataAccess.csproj.CoreCompileInputs.cache
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\obj\Debug\net6.0\TOYOTA.DataAccess.csproj.CopyComplete
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\obj\Debug\net6.0\TOYOTA.DataAccess.dll
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\obj\Debug\net6.0\refint\TOYOTA.DataAccess.dll
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\obj\Debug\net6.0\TOYOTA.DataAccess.pdb
+C:\Emrah Ceylan Dersleri\TOYOTA\TOYOTA.DataAccess\obj\Debug\net6.0\ref\TOYOTA.DataAccess.dll

@@ -1,0 +1,12 @@
+C:\Emrah Ceylan Dersleri\TOYOTA\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Emrah Ceylan Dersleri\TOYOTA\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Emrah Ceylan Dersleri\TOYOTA\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Emrah Ceylan Dersleri\TOYOTA\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Emrah Ceylan Dersleri\TOYOTA\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emrah Ceylan Dersleri\TOYOTA\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Emrah Ceylan Dersleri\TOYOTA\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Emrah Ceylan Dersleri\TOYOTA\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Emrah Ceylan Dersleri\TOYOTA\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Emrah Ceylan Dersleri\TOYOTA\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Emrah Ceylan Dersleri\TOYOTA\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Emrah Ceylan Dersleri\TOYOTA\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
